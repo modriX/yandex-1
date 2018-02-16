@@ -387,6 +387,7 @@ p {
     top: 90px;
     grid-column: 7/19;
     background: url("../img/photo_small.jpg") center;
+    background-size: cover;
     border-radius: 200px; }
 
   .information {
